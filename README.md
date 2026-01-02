@@ -100,7 +100,7 @@ Each dataset undergoes rigorous QC:
 - [ ] Real-time validation dashboard
 
 ## Contact
-**Dharma Reddy Dhamodhar**  
+**Dhamodhar Reddy Atla**  
 Clinical SAS Programmer | Healthcare Data Analyst  
 📧 Email: dhamodhar1142@gmail.com  
 💼 LinkedIn: [linkedin.com/in/dhamodhar1142](https://linkedin.com/in/dhamodhar1142)  
